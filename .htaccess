@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile /src/.htpasswds
+AuthUserFile /rainline/src/.htpasswds
 require valid-user
